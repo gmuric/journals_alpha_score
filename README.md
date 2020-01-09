@@ -6,6 +6,8 @@ Data format:
 * Journal's normalized name [*string*]
 * Alphabeticality score [*float*]
 
+Please cite as: Muric, Goran. (2020). Orders of Authors in Scientific Journals: Dataset (V1.0) Retrieved from https://github.com/gmuric/journals_alpha_score
+
 ## Alphabeticality score
 
 **alpha=1** - The journal forces alphabetical order
