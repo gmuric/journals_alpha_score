@@ -7,6 +7,10 @@ Data format:
 * Alphabeticality score [*float*]
 
 ## Alphabeticality score
+
+**alpha=1** - The journal forces alphabetical order
+**alpha=0** - The order is approximately random
+
 Ranges from -1 to 1. Maximum alpha score is 1 for journals with alphabetical order of authors. The majority of journals have alpha distributed around zero with few hunderd journals with alpha closer to one.
 
 **Data:** I used data from the Microsoft Academic Graph. The journals analyzed are those with the publications in years 2011 to 2015. Only papers with more than 3 authors have been included in the analysis. Only journals who have published more than three papers in the selected years are analyzed.
