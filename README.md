@@ -2,9 +2,9 @@
 This dataset identifies the journals whose policy is alphabetical order of authors in their publications.
 
 Data format:
-* Journal's name
-* Journal's normalized name
-* Alphabeticality score
+* Journal's name [*string*]
+* Journal's normalized name [*string*]
+* Alphabeticality score [*float*]
 
 ## Alphabeticality score
 Ranges from -1 to 1. Maximum alpha score is 1 for journals with alphabetical order of authors. The majority of journals have alpha distributed around zero with few hunderd journals with alpha closer to one.
