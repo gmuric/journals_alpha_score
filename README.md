@@ -11,7 +11,7 @@ Please cite as: Muric, Goran. (2020). Orders of Authors in Scientific Journals: 
 ## Alphabeticality score
 
 * **alpha=1** - The journal forces alphabetical order
-* **alpha=0** - The order is approximately random
+* **alpha=0** - The alphabetical order is not forced
 
 Ranges from -1 to 1. Maximum alpha score is 1 for journals with alphabetical order of authors. The majority of journals have alpha distributed around zero with few hunderd journals with alpha closer to one.
 
