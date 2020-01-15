@@ -1,4 +1,4 @@
-# Orders of Authors in Scientific Journals
+# Ordering of Authors in Scientific Journals
 This dataset identifies the journals whose policy is alphabetical order of authors in their publications.
 
 Data format:
@@ -21,4 +21,4 @@ Ranges from -1 to 1. Maximum alpha score is 1 for journals with alphabetical ord
 ![Alt text](images/dist_alpha.png?raw=true "Title")
 
 
-Please cite as: Muric, Goran. (2020). Orders of Authors in Scientific Journals: Dataset (V1.0) Retrieved from https://github.com/gmuric/journals_alpha_score
+Please cite as: Muric, Goran. (2020). Ordering of Authors in Scientific Journals: Dataset (V1.0) Retrieved from https://github.com/gmuric/journals_alpha_score
